@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task_05</string>
+    <string name="editar_mensaje">Introduce un mensaje</string>
+    <string name="boton_enviar">Enviar</string>
+</resources>
